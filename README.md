@@ -2,7 +2,7 @@
 
 Student at Sri Krishna Arts And Science College
 
-## 💫 Litle Bit More About Me
+## 💫 Little Bit More About Me
 <p>🌱 I'm currently learning Python, React, Web3</p>
 <p>Know about my experiences <a href="https://drive.google.com/file/d/18NXtwRPTi-qB3VsApn9a6kdyFN13rFJr/view">here</a></p>
 
